@@ -1,0 +1,10 @@
+.hornImage {
+    max-width: 150px;
+    max-height: 100px;
+    object-fit: cover;
+}
+
+.hornButton {
+  display: flex;
+  flex-direction:column;
+}
